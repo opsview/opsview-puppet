@@ -1,6 +1,6 @@
 {
   "name": "opsview-puppet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Opsview",
   "summary": "Synchronizes Opsview monitoring tool configuration",
   "license": "Opsview",
