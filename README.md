@@ -6,6 +6,8 @@ Introduction
 
 The Opsview Puppet module allows for the synchronization of Opsview configuration using Opsview’s REST API service and is divided into many types, each of which is focused on a specific area of the Opsview configuration.
 
+NOTE: You will need to install the 'rest-client' Ruby library to use this module.  If you use your vendor-packaged version of Puppet, then you can either use the vendor's version of this library, or use 'gem install rest-client'.  However, if you use the PuppetLab's version then you will need to install development tools (such as gcc and make, amoungst others) and then use `/opt/puppetlabs/puppet/bin/gem install rest-client` to ensure the library and its prerequisites are installed to the correct location.
+
 Configuration
 =============
 
