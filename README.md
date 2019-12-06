@@ -1,4 +1,4 @@
-<span id="title-text"> Opsview Puppet Module </span>
+<span id="title-text"> [Deprecate] Opsview Puppet Module </span>
 =======================================================================
 
 Introduction
